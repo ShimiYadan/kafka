@@ -33,20 +33,26 @@ config in main root dir
 }
 
 # Tests
-```npx jest```
+```
+npx jest
+```
 
 # Installation
 To use this module, you need to have an Apache Kafka installed and running. You also need to install the required dependencies by running the following command:
 
 Using Confluent Cloud for Apache Kafka
-```https://confluent.cloud/```
+```
+https://confluent.cloud/
+```
 
 install node -v 18+ (LTS July 2023)
 you can download it from the official website here https://nodejs.org/en
 
 # run the commands
-```npm install
-npm run build```
+```
+npm install
+npm run build
+```
 
 # Error Handling
 This module throwes errors when there are issues with the connection or executing a producer or consumer  setups. You should handle these errors appropriately in your application.
