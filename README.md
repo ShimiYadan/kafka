@@ -45,8 +45,8 @@ install node -v 18+ (LTS July 2023)
 you can download it from the official website here https://nodejs.org/en
 
 # run the commands
-npm install
-npm run build
+```npm install
+npm run build```
 
 # Error Handling
 This module throwes errors when there are issues with the connection or executing a producer or consumer  setups. You should handle these errors appropriately in your application.
