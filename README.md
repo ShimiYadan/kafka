@@ -20,7 +20,7 @@ config in main root dir
     "@types/node": "^20.4.5",
     "typescript": "^5.1.6",
     "ts-node": "^10.9.1",
-    "kafka": "git+https://github.com/ShimiYadan/kafka.git#1.0.0",
+    "kafka": "git+https://github.com/ShimiYadan/kafka.git#v1.0.0",
   }
 }
 
