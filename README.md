@@ -33,7 +33,7 @@ config in main root dir
 }
 
 # Tests
-npx jest
+```npx jest```
 
 # Installation
 To use this module, you need to have an Apache Kafka installed and running. You also need to install the required dependencies by running the following command:
